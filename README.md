@@ -1,0 +1,1 @@
+This project aims to predict home prices in Bangalore based on various factors such as area (square feet), BHK, number of bathrooms, and location. The model is built using Linear Regression, identified as the best fit through GridSearchCV, and deployed using Flask.
